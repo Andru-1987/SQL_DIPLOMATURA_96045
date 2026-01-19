@@ -1,5 +1,10 @@
 # Clase 2 -> Sentencias y SubLenguaje
 
+* [_Material clase teorica_](https://docs.google.com/presentation/d/1Hn07jCipMPCBE3yHKlbubknfcArDQqwN0zA3rg3MT54/edit?slide=id.g1196d1e3985_0_1282#slide=id.g1196d1e3985_0_1282)
+
+* [_Material clase practica_](https://docs.google.com/presentation/d/1gFvZmx7TiA0U8dj0nSiT1BjX7rdUF3rjWIDC2gkmn3A/edit?slide=id.p1#slide=id.p1)
+
+
 ## Breve repaso del material On-Demand
 
 ## Lenguaje SQL: Cómo se Lee y Cómo Debería Leerse
