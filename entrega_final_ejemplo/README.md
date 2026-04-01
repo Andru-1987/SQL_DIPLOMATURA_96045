@@ -98,4 +98,4 @@ Modelo SaaS por suscripción.
 
 
 ## Charts
-![Website](https://claude.ai/public/artifacts/848afbd1-552c-4dde-8aed-fd6310b1c100)
+[Website](https://claude.ai/public/artifacts/848afbd1-552c-4dde-8aed-fd6310b1c100)
